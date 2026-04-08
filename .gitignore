@@ -1,0 +1,15 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
