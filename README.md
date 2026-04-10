@@ -1,4 +1,4 @@
-# NordCloud Academy | C# File Analytics Console App
+# NC Academy | C# File Analytics Console App
 
 > Project Type: Console application
 
